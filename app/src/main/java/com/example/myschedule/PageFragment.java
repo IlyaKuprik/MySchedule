@@ -78,41 +78,41 @@ public class PageFragment extends Fragment {
         frLessons = new ArrayList<>();
         stLessons = new ArrayList<>();
 
-        mdLessons.add("1. 8:45 Информатика");
-        mdLessons.add("2. 9:30 Физика");
-        mdLessons.add("3. Литература");
-        mdLessons.add("4. География");
-        mdLessons.add("5. Алгебра");
-        mdLessons.add("6. Английский");
+        mdLessons.add("1. 08:45 Информатика");
+        mdLessons.add("2. 09:30 Физика");
+        mdLessons.add("3. 10:20 Литература");
+        mdLessons.add("4. 11:20 География");
+        mdLessons.add("5. 12:10 Алгебра");
+        mdLessons.add("6. 12:55 Английский");
 
-        twLessons.add("1. 8:45 Алгебра");
-        twLessons.add("2. 9:30 Информатика");
-        twLessons.add("3. Электив");
-        twLessons.add("4. История");
-        twLessons.add("5. Русский язык");
-        twLessons.add("6. Литература");
-        twLessons.add("7. Физкультура");
+        twLessons.add("1. 08:45 Алгебра");
+        twLessons.add("2. 09:30 Информатика");
+        twLessons.add("3. 10:20 Электив");
+        twLessons.add("4. 11:20 История");
+        twLessons.add("5. 12:10 Русский язык");
+        twLessons.add("6. 12:55 Литература");
+        twLessons.add("7. 13:40 Физкультура");
 
-        wnLessons.add("1. 8:45 Астрономия");
-        wnLessons.add("2. 9:30 Алгебра");
-        wnLessons.add("3. Русский язык");
-        wnLessons.add("4. Физика");
-        wnLessons.add("5. Геометрия");
-        wnLessons.add("6. Английский язык");
+        wnLessons.add("1. 08:45 Астрономия");
+        wnLessons.add("2. 09:30 Алгебра");
+        wnLessons.add("3. 10:20 Русский язык");
+        wnLessons.add("4. 11:20 Физика");
+        wnLessons.add("5. 12:10 Геометрия");
+        wnLessons.add("6. 12:55 Английский язык");
 
-        thLessons.add("1. 8:45 Физика");
-        thLessons.add("2. 9:30 Химия");
-        thLessons.add("3. Физика");
-        thLessons.add("4. Информатика");
-        thLessons.add("5. Русский язык");
-        thLessons.add("6. Обществознание");
+        thLessons.add("1. 08:45 Физика");
+        thLessons.add("2. 09:30 Химия");
+        thLessons.add("3. 10:20 Физика");
+        thLessons.add("4. 11:20 Информатика");
+        thLessons.add("5. 12:10 Русский язык");
+        thLessons.add("6. 12:55 Обществознание");
 
-        frLessons.add("1. 8:45 Физкультура");
-        frLessons.add("2. 9:30 Информатика");
-        frLessons.add("3. Биология");
-        frLessons.add("4. История");
-        frLessons.add("5. Геометрия");
-        frLessons.add("6. Английский язык");
+        frLessons.add("1. 08:45 Физкультура");
+        frLessons.add("2. 09:30 Информатика");
+        frLessons.add("3. 10:20 Биология");
+        frLessons.add("4. 11:20 История");
+        frLessons.add("5. 12:10 Геометрия");
+        frLessons.add("6. 12:55 Английский язык");
 
         stLessons.add("1. Алгебра");
         stLessons.add("2. Литература");
